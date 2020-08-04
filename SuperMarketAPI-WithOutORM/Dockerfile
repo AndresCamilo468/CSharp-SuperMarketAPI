@@ -1,5 +1,6 @@
 FROM mcr.microsoft.com/dotnet/core/sdk:3.1 AS build-env
 WORKDIR /app
+ENV ASPNETCORE_URLS=http://ec2-18-206-202-208.compute-1.amazonaws.com:5000
 
 # Copy csproj and restore as distinct layers
 COPY *.csproj ./
