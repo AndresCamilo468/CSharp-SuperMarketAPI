@@ -16,7 +16,7 @@
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       },
-      "applicationUrl": "http://http://ec2-18-206-202-208.compute-1.amazonaws.com:5000/"
+      "applicationUrl": "http://ec2-18-206-202-208.compute-1.amazonaws.com:5000/"
     }
   }
 }
