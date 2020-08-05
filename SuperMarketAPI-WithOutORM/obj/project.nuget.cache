@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WVY1+zNpQXRDqp8jwt9TrcJ0VZI7qgmSufhZzwcHEBQGxRTgTJNZ9UhWgvJzzzDQr/oJ5XgRtQAC3cRCpwkppg==",
+  "dgSpecHash": "3s/gQgpSN7G7Y+ut+J+TdgR12zcwQOWyWFlLmMxuCQ9gedEbWAPvDmlXiPkyGRWeQy7Aw0cS4wFTd4DyntkmlA==",
   "success": true,
-  "projectFilePath": "D:\\Repositorios\\CSharp-SuperMarketAPI\\SuperMarketAPI-With_Out_ORM\\Supermarket.API.csproj",
+  "projectFilePath": "D:\\Repositorios\\CSharp-SuperMarketAPI\\SuperMarketAPI-WithOutORM\\Supermarket.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andre\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.0.1\\automapper.extensions.microsoft.dependencyinjection.8.0.1.nupkg.sha512",

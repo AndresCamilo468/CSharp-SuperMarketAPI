@@ -356,11 +356,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Repositorios\\CSharp-SuperMarketAPI\\SuperMarketAPI-With_Out_ORM\\Supermarket.API.csproj",
+      "projectUniqueName": "D:\\Repositorios\\CSharp-SuperMarketAPI\\SuperMarketAPI-WithOutORM\\Supermarket.API.csproj",
       "projectName": "Supermarket.API",
-      "projectPath": "D:\\Repositorios\\CSharp-SuperMarketAPI\\SuperMarketAPI-With_Out_ORM\\Supermarket.API.csproj",
+      "projectPath": "D:\\Repositorios\\CSharp-SuperMarketAPI\\SuperMarketAPI-WithOutORM\\Supermarket.API.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "D:\\Repositorios\\CSharp-SuperMarketAPI\\SuperMarketAPI-With_Out_ORM\\obj\\",
+      "outputPath": "D:\\Repositorios\\CSharp-SuperMarketAPI\\SuperMarketAPI-WithOutORM\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",

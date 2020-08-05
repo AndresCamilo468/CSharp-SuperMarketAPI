@@ -1,0 +1,132 @@
+D:\dotnet\Supermarket.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\dotnet\Supermarket.API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\dotnet\Supermarket.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\dotnet\Supermarket.API\bin\Debug\netcoreapp3.1\Supermarket.API.exe
+D:\dotnet\Supermarket.API\obj\Debug\netcoreapp3.1\Supermarket.API.csprojAssemblyReference.cache
+D:\dotnet\Supermarket.API\obj\Debug\netcoreapp3.1\Supermarket.API.AssemblyInfoInputs.cache
+D:\dotnet\Supermarket.API\obj\Debug\netcoreapp3.1\Supermarket.API.AssemblyInfo.cs
+D:\dotnet\Supermarket.API\obj\Debug\netcoreapp3.1\Supermarket.API.RazorTargetAssemblyInfo.cache
+D:\dotnet\Supermarket.API\obj\Debug\netcoreapp3.1\staticwebassets\Supermarket.API.StaticWebAssets.Manifest.cache
+D:\dotnet\Supermarket.API\obj\Debug\netcoreapp3.1\staticwebassets\Supermarket.API.StaticWebAssets.xml
+D:\dotnet\Supermarket.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\dotnet\Supermarket.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\dotnet\Supermarket.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\dotnet\Supermarket.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\dotnet\Supermarket.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\dotnet\Supermarket.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\dotnet\Supermarket.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\dotnet\Supermarket.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\dotnet\Supermarket.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\dotnet\Supermarket.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\dotnet\Supermarket.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\dotnet\Supermarket.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\dotnet\Supermarket.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\dotnet\Supermarket.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\dotnet\Supermarket.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\dotnet\Supermarket.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\dotnet\Supermarket.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\dotnet\Supermarket.API\obj\Debug\netcoreapp3.1\Supermarket.API.csproj.CopyComplete
+D:\dotnet\Supermarket.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\dotnet\Supermarket.API\bin\Debug\netcoreapp3.1\Supermarket.API.deps.json
+D:\dotnet\Supermarket.API\bin\Debug\netcoreapp3.1\Supermarket.API.runtimeconfig.json
+D:\dotnet\Supermarket.API\bin\Debug\netcoreapp3.1\Supermarket.API.runtimeconfig.dev.json
+D:\dotnet\Supermarket.API\bin\Debug\netcoreapp3.1\Supermarket.API.dll
+D:\dotnet\Supermarket.API\bin\Debug\netcoreapp3.1\Supermarket.API.pdb
+D:\dotnet\Supermarket.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\dotnet\Supermarket.API\obj\Debug\netcoreapp3.1\Supermarket.API.csproj.CoreCompileInputs.cache
+D:\dotnet\Supermarket.API\obj\Debug\netcoreapp3.1\Supermarket.API.MvcApplicationPartsAssemblyInfo.cache
+D:\dotnet\Supermarket.API\obj\Debug\netcoreapp3.1\Supermarket.API.dll
+D:\dotnet\Supermarket.API\obj\Debug\netcoreapp3.1\Supermarket.API.pdb
+D:\dotnet\Supermarket.API\obj\Debug\netcoreapp3.1\Supermarket.API.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API\bin\Debug\netcoreapp3.1\Supermarket.API.exe
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API\bin\Debug\netcoreapp3.1\Supermarket.API.deps.json
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API\bin\Debug\netcoreapp3.1\Supermarket.API.runtimeconfig.json
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API\bin\Debug\netcoreapp3.1\Supermarket.API.runtimeconfig.dev.json
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API\bin\Debug\netcoreapp3.1\Supermarket.API.dll
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API\bin\Debug\netcoreapp3.1\Supermarket.API.pdb
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API\obj\Debug\netcoreapp3.1\Supermarket.API.csprojAssemblyReference.cache
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API\obj\Debug\netcoreapp3.1\Supermarket.API.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API\obj\Debug\netcoreapp3.1\Supermarket.API.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API\obj\Debug\netcoreapp3.1\Supermarket.API.RazorTargetAssemblyInfo.cache
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API\obj\Debug\netcoreapp3.1\Supermarket.API.csproj.CopyComplete
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API\obj\Debug\netcoreapp3.1\staticwebassets\Supermarket.API.StaticWebAssets.Manifest.cache
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API\obj\Debug\netcoreapp3.1\staticwebassets\Supermarket.API.StaticWebAssets.xml
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API\obj\Debug\netcoreapp3.1\Supermarket.API.dll
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API\obj\Debug\netcoreapp3.1\Supermarket.API.pdb
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API\obj\Debug\netcoreapp3.1\Supermarket.API.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API\obj\Debug\netcoreapp3.1\Supermarket.API.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API\obj\Debug\netcoreapp3.1\Supermarket.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API - Postgresql Conection\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API - Postgresql Conection\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API - Postgresql Conection\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API - Postgresql Conection\bin\Debug\netcoreapp3.1\Supermarket.API.exe
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API - Postgresql Conection\bin\Debug\netcoreapp3.1\Supermarket.API.deps.json
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API - Postgresql Conection\bin\Debug\netcoreapp3.1\Supermarket.API.runtimeconfig.json
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API - Postgresql Conection\bin\Debug\netcoreapp3.1\Supermarket.API.runtimeconfig.dev.json
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API - Postgresql Conection\bin\Debug\netcoreapp3.1\Supermarket.API.dll
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API - Postgresql Conection\bin\Debug\netcoreapp3.1\Supermarket.API.pdb
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API - Postgresql Conection\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API - Postgresql Conection\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API - Postgresql Conection\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API - Postgresql Conection\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API - Postgresql Conection\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API - Postgresql Conection\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API - Postgresql Conection\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API - Postgresql Conection\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API - Postgresql Conection\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API - Postgresql Conection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API - Postgresql Conection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API - Postgresql Conection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API - Postgresql Conection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API - Postgresql Conection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API - Postgresql Conection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API - Postgresql Conection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API - Postgresql Conection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API - Postgresql Conection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API - Postgresql Conection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API - Postgresql Conection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API - Postgresql Conection\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API - Postgresql Conection\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API - Postgresql Conection\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API - Postgresql Conection\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API - Postgresql Conection\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API - Postgresql Conection\obj\Debug\netcoreapp3.1\Supermarket.API.csprojAssemblyReference.cache
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API - Postgresql Conection\obj\Debug\netcoreapp3.1\Supermarket.API.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API - Postgresql Conection\obj\Debug\netcoreapp3.1\Supermarket.API.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API - Postgresql Conection\obj\Debug\netcoreapp3.1\Supermarket.API.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API - Postgresql Conection\obj\Debug\netcoreapp3.1\Supermarket.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API - Postgresql Conection\obj\Debug\netcoreapp3.1\Supermarket.API.RazorTargetAssemblyInfo.cache
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API - Postgresql Conection\obj\Debug\netcoreapp3.1\Supermarket.API.csproj.CopyComplete
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API - Postgresql Conection\obj\Debug\netcoreapp3.1\staticwebassets\Supermarket.API.StaticWebAssets.Manifest.cache
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API - Postgresql Conection\obj\Debug\netcoreapp3.1\staticwebassets\Supermarket.API.StaticWebAssets.xml
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API - Postgresql Conection\obj\Debug\netcoreapp3.1\Supermarket.API.dll
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API - Postgresql Conection\obj\Debug\netcoreapp3.1\Supermarket.API.pdb
+C:\Users\andre\OneDrive\Escritorio\Supermarket.API - Postgresql Conection\obj\Debug\netcoreapp3.1\Supermarket.API.genruntimeconfig.cache
