@@ -8,6 +8,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Supermarket.API.Persistence.Contexts;
+using Supermarket.API.Extensions;
 
 namespace Supermarket.API
 {
@@ -24,7 +25,8 @@ namespace Supermarket.API
             //}
 
             //host.Run();
-            CreateHostBuilder(args).Build().Run();
+            //CreateHostBuilder(args).Build().Run();
+            CreateHostBuilder(args).Build().MigrateDatabase<AppDbContext>().Run();
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>

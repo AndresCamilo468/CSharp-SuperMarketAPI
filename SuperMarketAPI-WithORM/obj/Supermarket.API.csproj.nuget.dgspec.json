@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andre\\OneDrive\\Escritorio\\Supermarket.API - Postgresql Conection\\Supermarket.API.csproj": {}
+    "D:\\Repositorios\\CSharp-SuperMarketAPI\\SuperMarketAPI-WithORM\\Supermarket.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andre\\OneDrive\\Escritorio\\Supermarket.API - Postgresql Conection\\Supermarket.API.csproj": {
+    "D:\\Repositorios\\CSharp-SuperMarketAPI\\SuperMarketAPI-WithORM\\Supermarket.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Escritorio\\Supermarket.API - Postgresql Conection\\Supermarket.API.csproj",
+        "projectUniqueName": "D:\\Repositorios\\CSharp-SuperMarketAPI\\SuperMarketAPI-WithORM\\Supermarket.API.csproj",
         "projectName": "Supermarket.API",
-        "projectPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\Supermarket.API - Postgresql Conection\\Supermarket.API.csproj",
+        "projectPath": "D:\\Repositorios\\CSharp-SuperMarketAPI\\SuperMarketAPI-WithORM\\Supermarket.API.csproj",
         "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\Supermarket.API - Postgresql Conection\\obj\\",
+        "outputPath": "D:\\Repositorios\\CSharp-SuperMarketAPI\\SuperMarketAPI-WithORM\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",

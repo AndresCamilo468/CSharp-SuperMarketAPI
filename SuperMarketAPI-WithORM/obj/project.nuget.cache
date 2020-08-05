@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4aaWrR82pDFVyr3BouoJsIl1skZPI2txO7621gKNERWO0qpjwf17hHQZAEUECPulLuMyE8Zpi2fs02Yk/TZpkw==",
+  "dgSpecHash": "wVwinjnrtxsSQ/JkqQV58PdPqCuU8/dSe8EEqYEcUahjgzQTTDnfA+6pYnJ9C9pTXuqc9EK0RPXL2wL3HR0KcA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Escritorio\\Supermarket.API - Postgresql Conection\\Supermarket.API.csproj",
+  "projectFilePath": "D:\\Repositorios\\CSharp-SuperMarketAPI\\SuperMarketAPI-WithORM\\Supermarket.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andre\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.0.1\\automapper.extensions.microsoft.dependencyinjection.8.0.1.nupkg.sha512",
