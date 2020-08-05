@@ -4,7 +4,9 @@ WORKDIR /app
 # Copy csproj and restore as distinct layers
 COPY *.csproj ./
 RUN dotnet restore
+
 RUN dotnet tool install --global dotnet-ef
+ENV PATH="${PATH}:/root/.dotnet/tools"
 RUN dotnet ef migrations add initial
 RUN dotnet ef database update
 
