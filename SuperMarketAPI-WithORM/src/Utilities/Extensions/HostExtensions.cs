@@ -21,6 +21,7 @@ namespace Supermarket.API.Extensions
                 try
                 {
                     var db = services.GetRequiredService<T>();
+                    
                     db.Database.EnsureCreated();
                     db.Database.Migrate();
                 }

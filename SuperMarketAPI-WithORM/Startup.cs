@@ -1,24 +1,16 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using AutoMapper;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
-using Microsoft.AspNetCore.Mvc;
-
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.Logging;
-
 using Supermarket.API.Domain.Repositories;
 using Supermarket.API.Domain.Services;
 using Supermarket.API.Persistence.Contexts;
 using Supermarket.API.Persistence.Repositories;
 using Supermarket.API.Services;
+using System;
 
 
 
@@ -33,14 +25,24 @@ namespace Supermarket.API
 
         public IConfiguration Configuration { get; }
 
-        
+
 
 
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDbContext<AppDbContext>(options =>
             {
-                options.UseNpgsql(Configuration.GetConnectionString("DefaultConnection"));
+
+                
+                string DataBase = $"Host={Environment.GetEnvironmentVariable("HOST")};" +
+                                   $"Port={Environment.GetEnvironmentVariable("PORT")};" +
+                                   $"Username={Environment.GetEnvironmentVariable("DB_USERNAME")};" +
+                                   $"Password={Environment.GetEnvironmentVariable("DB_PASSWORD")};" +
+                                   $"Database={Environment.GetEnvironmentVariable("DB_NAME")};";
+
+                
+
+                options.UseNpgsql(DataBase);
             });
 
             services.AddScoped<ICategoryRepository, CategoryRepository>();
