@@ -10,14 +10,16 @@ namespace Supermarket.API.Persistence.Contexts
 {
     public class AppDbContext
     {
+        string DataBase = "null";
+
+        public AppDbContext(string DataBase)
+        {
+            this.DataBase = DataBase;
         
+        }
 
 
-        readonly string DataBase = $"Host={Environment.GetEnvironmentVariable("HOST")};" +
-                                   $"Port={Environment.GetEnvironmentVariable("PORT")};" +
-                                   $"Username={Environment.GetEnvironmentVariable("DB_USERNAME")};" +
-                                   $"Password={Environment.GetEnvironmentVariable("DB_PASSWORD")};" +
-                                   $"Database={Environment.GetEnvironmentVariable("DB_NAME")}";
+
 
         public async Task<NpgsqlConnection> OpenConection(){
 

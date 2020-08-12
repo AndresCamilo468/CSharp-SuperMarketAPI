@@ -38,19 +38,65 @@ namespace Supermarket.API
 
         public void ConfigureServices(IServiceCollection services)
         {
+            
+
+
+
+            //services.AddDbContext<AppDbContext>(options =>
+            //{
+
+
+            //    string DataBase = $"Host={Environment.GetEnvironmentVariable("HOST")};" +
+            //                       $"Port={Environment.GetEnvironmentVariable("PORT")};" +
+            //                       $"Username={Environment.GetEnvironmentVariable("DB_USERNAME")};" +
+            //                       $"Password={Environment.GetEnvironmentVariable("DB_PASSWORD")};" +
+            //                       $"Database={Environment.GetEnvironmentVariable("DB_NAME")};";
+
+
+
+            //    options.UseNpgsql(DataBase);
+            //});
+
+            //services.AddDbContext<AppDbContext>(options =>
+            //{
+
+
+            //    string DataBase = $"Host={Environment.GetEnvironmentVariable("HOST")};" +
+            //                       $"Port={Environment.GetEnvironmentVariable("PORT")};" +
+            //                       $"Username={Environment.GetEnvironmentVariable("DB_USERNAME")};" +
+            //                       $"Password={Environment.GetEnvironmentVariable("DB_PASSWORD")};" +
+            //                       $"Database={Environment.GetEnvironmentVariable("DB_NAME")};";
+
+
+
+            //    options.UseNpgsql(DataBase);
+            //});
+
 
             services.AddScoped<ICategoryRepository, CategoryRepository>();
             services.AddScoped<IProductRepository, ProductRepository>();
             
             services.AddScoped<ICategoryService, CategoryService>();
             services.AddScoped<IProductService, ProductService>();
-            services.AddScoped<AppDbContext, AppDbContext>();
+            
+
+            string DataBase = $"Host={Environment.GetEnvironmentVariable("HOST")};" +
+                                $"Port={Environment.GetEnvironmentVariable("PORT")};" +
+                                $"Username={Environment.GetEnvironmentVariable("DB_USERNAME")};" +
+                                $"Password={Environment.GetEnvironmentVariable("DB_PASSWORD")};" +
+                                $"Database={Environment.GetEnvironmentVariable("DB_NAME")}";
+
+            services.AddSingleton<AppDbContext>(x => new AppDbContext(DataBase));
+
+            
+
 
 
             services.AddAutoMapper(typeof(Startup));
 
             services.AddControllers();
         }
+
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
