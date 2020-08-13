@@ -34,8 +34,8 @@ namespace Supermarket.API
             {
 
                 
-                string DataBase = $"Host={Environment.GetEnvironmentVariable("HOST")};" +
-                                   $"Port={Environment.GetEnvironmentVariable("PORT")};" +
+                string DataBase = $"Host={Environment.GetEnvironmentVariable("DB_HOST")};" +
+                                   $"Port={Environment.GetEnvironmentVariable("DB_PORT")};" +
                                    $"Username={Environment.GetEnvironmentVariable("DB_USERNAME")};" +
                                    $"Password={Environment.GetEnvironmentVariable("DB_PASSWORD")};" +
                                    $"Database={Environment.GetEnvironmentVariable("DB_NAME")};";

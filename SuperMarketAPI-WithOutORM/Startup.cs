@@ -42,36 +42,7 @@ namespace Supermarket.API
 
 
 
-            //services.AddDbContext<AppDbContext>(options =>
-            //{
-
-
-            //    string DataBase = $"Host={Environment.GetEnvironmentVariable("HOST")};" +
-            //                       $"Port={Environment.GetEnvironmentVariable("PORT")};" +
-            //                       $"Username={Environment.GetEnvironmentVariable("DB_USERNAME")};" +
-            //                       $"Password={Environment.GetEnvironmentVariable("DB_PASSWORD")};" +
-            //                       $"Database={Environment.GetEnvironmentVariable("DB_NAME")};";
-
-
-
-            //    options.UseNpgsql(DataBase);
-            //});
-
-            //services.AddDbContext<AppDbContext>(options =>
-            //{
-
-
-            //    string DataBase = $"Host={Environment.GetEnvironmentVariable("HOST")};" +
-            //                       $"Port={Environment.GetEnvironmentVariable("PORT")};" +
-            //                       $"Username={Environment.GetEnvironmentVariable("DB_USERNAME")};" +
-            //                       $"Password={Environment.GetEnvironmentVariable("DB_PASSWORD")};" +
-            //                       $"Database={Environment.GetEnvironmentVariable("DB_NAME")};";
-
-
-
-            //    options.UseNpgsql(DataBase);
-            //});
-
+           
 
             services.AddScoped<ICategoryRepository, CategoryRepository>();
             services.AddScoped<IProductRepository, ProductRepository>();
@@ -80,8 +51,8 @@ namespace Supermarket.API
             services.AddScoped<IProductService, ProductService>();
             
 
-            string DataBase = $"Host={Environment.GetEnvironmentVariable("HOST")};" +
-                                $"Port={Environment.GetEnvironmentVariable("PORT")};" +
+            string DataBase = $"Host={Environment.GetEnvironmentVariable("DB_HOST")};" +
+                                $"Port={Environment.GetEnvironmentVariable("DB_PORT")};" +
                                 $"Username={Environment.GetEnvironmentVariable("DB_USERNAME")};" +
                                 $"Password={Environment.GetEnvironmentVariable("DB_PASSWORD")};" +
                                 $"Database={Environment.GetEnvironmentVariable("DB_NAME")}";
