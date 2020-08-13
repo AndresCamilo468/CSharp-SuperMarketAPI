@@ -16,9 +16,9 @@
       "environmentVariables": {
         "DOTNET_USE_POLLING_FILE_WATCHER": "true",
         "DB_USERNAME": "postgres",
-        "DB_NAME": "super_market_db_ORM",
+        "DB_NAME": "super_market_db",
         "DB_PASSWORD": "12345678",
-        "DB_HOST": "18.234.106.141",
+        "DB_HOST": "localhost",
         "ASPNETCORE_URLS": "http://0.0.0.0:5000",
         "ASPNETCORE_ENVIRONMENT": "Development",
         "DB_PORT": "5432"
